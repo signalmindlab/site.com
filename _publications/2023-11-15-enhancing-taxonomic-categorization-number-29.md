@@ -1,6 +1,7 @@
 ---
 title: "Enhancing Taxonomic Categorization of DNA Sequences with Deep Learning: A Multi-Label Approach"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-11-15-enhancing-taxonomic-categorization-number-29
 excerpt: ''
 date: 2023-11-15
