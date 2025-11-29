@@ -1,6 +1,7 @@
 ---
 title: "Incorporating meteorological data and pesticide information to forecast crop yields using machine learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-03-01-incorporating-meteorological-data-number-40
 excerpt: ''
 date: 2024-03-01
