@@ -1,6 +1,7 @@
 ---
 title: "Deep transfer learning-based bird species classification using mel spectrogram images"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-08-15-deep-transfer-learning-based-number-48
 excerpt: ''
 date: 2024-08-15
