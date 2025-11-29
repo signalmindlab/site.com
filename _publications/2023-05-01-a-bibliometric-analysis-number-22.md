@@ -1,6 +1,7 @@
 ---
 title: "A Bibliometric Analysis on Arrhythmia Detection and Classification from 2005 to 2022"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-05-01-a-bibliometric-analysis-number-22
 excerpt: ''
 date: 2023-05-01
