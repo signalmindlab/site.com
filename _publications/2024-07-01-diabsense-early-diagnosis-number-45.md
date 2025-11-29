@@ -1,6 +1,7 @@
 ---
 title: "DiabSense: early diagnosis of non-insulin-dependent diabetes mellitus using smartphone-based human activity recognition and diabetic retinopathy analysis with Graph Neural Network"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-07-01-diabsense-early-diagnosis-number-45
 excerpt: ''
 date: 2024-07-01
