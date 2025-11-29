@@ -1,6 +1,7 @@
 ---
 title: "Intelligent Decision Making for Commodities Price Prediction: Opportunities, Challenges and Future Avenues"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-intelligent-decision-making-number-55
 excerpt: ''
 date: 2025-01-01
