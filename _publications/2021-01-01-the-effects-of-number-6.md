@@ -1,6 +1,7 @@
 ---
 title: "The Effects of Rain on Terrestrial Links at K, Ka and E-Bands in South Korea: Based on Supervised Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-the-effects-of-number-6
 excerpt: ''
 date: 2021-01-01
