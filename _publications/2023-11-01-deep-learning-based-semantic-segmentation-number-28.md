@@ -1,6 +1,7 @@
 ---
 title: "Deep-learning-based semantic segmentation for remote sensing: A bibliometric literature review"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-11-01-deep-learning-based-semantic-segmentation-number-28
 excerpt: ''
 date: 2023-11-01
