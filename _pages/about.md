@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Md Abdus Samad received the Ph.D. degree in information and communication engineering from Chosun University, Gwangju, South Korea, in 2022. From 2013 to 2017, he was an Assistant Professor with the Department of Electronics and Telecommunication Engineering, International Islamic University Chittagong, Chattogram, Bangladesh. He is currently a Research Professor with the Department of Information and Communication Engineering, Yeungnam University, Gyeongsan, South Korea. His research interests include signal processing, antenna design, electromagnetic wave propagation, applications of artificial neural networks and deep learning, and millimeter-wave propagation by interference or atmospheric causes for 5G and beyond wireless networks. Dr. Abdus Samad received the Prestigious Korean Government Scholarship for his doctoral study.
 
 A data-driven personal website
 ======
