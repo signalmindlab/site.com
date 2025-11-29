@@ -1,6 +1,7 @@
 ---
 title: "A Survey on the Role of Industrial IoT in Manufacturing for Implementation of Smart Industry"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-12-10-a-survey-on-number-34
 excerpt: ''
 date: 2023-12-10
