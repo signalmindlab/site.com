@@ -1,6 +1,7 @@
 ---
 title: "DeepPoly: Deep learning-based polyps segmentation and classification for autonomous colonoscopy examination"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-06-01-deeppoly-deep-learning-based-number-23
 excerpt: ''
 date: 2023-06-01
