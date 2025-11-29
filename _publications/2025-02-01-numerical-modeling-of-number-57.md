@@ -1,6 +1,7 @@
 ---
 title: "Numerical modeling of gain-switched dysprosium-doped yellow fiber lasers"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-02-01-numerical-modeling-of-number-57
 excerpt: ''
 date: 2025-02-01
