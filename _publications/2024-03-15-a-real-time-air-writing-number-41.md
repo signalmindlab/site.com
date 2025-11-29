@@ -1,6 +1,7 @@
 ---
 title: "A real-time air-writing model to recognize Bengali characters"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-03-15-a-real-time-air-writing-number-41
 excerpt: ''
 date: 2024-03-15
