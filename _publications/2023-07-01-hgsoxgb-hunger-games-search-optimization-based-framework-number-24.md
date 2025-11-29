@@ -1,6 +1,7 @@
 ---
 title: "HGSOXGB: Hunger-Games-Search-Optimization-Based Framework to Predict the Need for ICU Admission for COVID-19 Patients Using eXtreme Gradient Boosting"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-07-01-hgsoxgb-hunger-games-search-optimization-based-framework-number-24
 excerpt: ''
 date: 2023-07-01
