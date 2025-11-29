@@ -1,6 +1,7 @@
 ---
 title: "StackIL10: A stacking ensemble model for the improved prediction of IL-10 inducing peptides"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-11-15-stackil10-a-stacking-number-54
 excerpt: ''
 date: 2024-11-15
