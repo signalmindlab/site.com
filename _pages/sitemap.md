@@ -4,7 +4,6 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
 published: false 
-<!-- by abdus -->
 ---
 
 {% include base_path %}
