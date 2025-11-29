@@ -1,6 +1,7 @@
 ---
 title: "Real-Time Obstacle Detection with YOLOv8 in a WSN Using UAV Aerial Photography"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-09-01-real-time-obstacle-detection-number-26
 excerpt: ''
 date: 2023-09-01
