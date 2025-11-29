@@ -1,6 +1,7 @@
 ---
 title: "Cloud IaaS Optimization Using Machine Vision at the IoT Edge and the Grid Sensing Algorithm"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-10-01-cloud-iaas-optimization-number-51
 excerpt: ''
 date: 2024-10-01
