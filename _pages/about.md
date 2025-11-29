@@ -9,7 +9,7 @@ redirect_from:
 
 ## Biography
 
-Dr. Md Abdus Samad is a distinguished Research Professor in the Department of Information and Communication Engineering at Yeungnam University, Gyeongsan, South Korea. His academic journey has been marked by excellence and international recognition, culminating in a Ph.D. degree in Information and Communication Engineering from Chosun University, Gwangju, South Korea, which he completed in 2022.
+Dr. Md Abdus Samad is a Research Professor in the Department of Information and Communication Engineering at Yeungnam University, Gyeongsan, South Korea. His academic journey has been marked by excellence and international recognition, culminating in a Ph.D. degree in Information and Communication Engineering from Chosun University, Gwangju, South Korea, which he completed in 2022.
 
 ### Educational Background
 
