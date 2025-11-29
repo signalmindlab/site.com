@@ -1,6 +1,7 @@
 ---
 title: "Multi-Step Preprocessing With UNet Segmentation and Transfer Learning Model for Pepper Bell Leaf Disease Detection"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-12-25-multi-step-preprocessing-with-number-37
 excerpt: ''
 date: 2023-12-25
