@@ -1,6 +1,7 @@
 ---
 title: "A graph mining-based approach to analyze the dynamics of the Twitter community of COVID-19 misinformation disseminators"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-11-01-a-graph-mining-based-number-53
 excerpt: ''
 date: 2024-11-01
