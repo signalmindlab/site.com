@@ -9,6 +9,15 @@ redirect_from:
 
 Md Abdus Samad received the Ph.D. degree in information and communication engineering from Chosun University, Gwangju, South Korea, in 2022. From 2013 to 2017, he was an Assistant Professor with the Department of Electronics and Telecommunication Engineering, International Islamic University Chittagong, Chattogram, Bangladesh. He is currently a Research Professor with the Department of Information and Communication Engineering, Yeungnam University, Gyeongsan, South Korea. His research interests include signal processing, antenna design, electromagnetic wave propagation, applications of artificial neural networks and deep learning, and millimeter-wave propagation by interference or atmospheric causes for 5G and beyond wireless networks. Dr. Abdus Samad received the Prestigious Korean Government Scholarship for his doctoral study.
 
+<!-- 
+=====================================================
+ACADEMIC PAGES TEMPLATE - ABOUT PAGE
+This is the default content explaining how the template works.
+You should replace this entire content with your own bio and information.
+=====================================================
+-->
+
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -52,3 +61,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
