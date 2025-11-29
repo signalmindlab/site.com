@@ -1,6 +1,7 @@
 ---
 title: "Benign and Malignant Oral Lesion Image Classification Using Fine-Tuned Transfer Learning Techniques"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-10-01-benign-and-malignant-number-27
 excerpt: ''
 date: 2023-10-01
