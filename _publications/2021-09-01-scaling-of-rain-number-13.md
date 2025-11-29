@@ -1,6 +1,7 @@
 ---
 title: "Scaling of Rain Attenuation Models: A Survey"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-09-01-scaling-of-rain-number-13
 excerpt: ''
 date: 2021-09-01
