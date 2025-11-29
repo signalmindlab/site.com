@@ -1,6 +1,7 @@
 ---
 title: "Rain Attenuation Scaling in South Korea: Experimental Results and Artificial Neural Network"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-08-01-rain-attenuation-scaling-number-12
 excerpt: ''
 date: 2021-08-01
