@@ -27,3 +27,7 @@ main:
 
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "ScholarsNote"
+  url: https://www.scholarsnote.org/
+  target: _blank
