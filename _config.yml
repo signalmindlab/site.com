@@ -220,13 +220,13 @@ kramdown:
 
 
 # # These settings control the types of collections used by the template # by Abdus Samad
-# collections:
+collections:
 #   teaching:
 #     output: false
 #     permalink: /:collection/:path/
-#   publications:
-#     output: false
-#     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
 #   portfolio:
 #     output: false
 #     permalink: /:collection/:path/
